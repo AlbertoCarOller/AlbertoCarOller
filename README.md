@@ -33,12 +33,12 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 <br>
-<h2><img src="https://media.giphy.com/media/W4dICb7X8m8bpl3mIY/giphy.gif" width="50"> Drop Me a Line</h2>
+<h2><img src="https://media.tenor.com/pvEy5JxYBn8AAAAi/follow-me-vault-boy.gif" width="50"> Drop Me a Line</h2>
 <br>
 <p>- 📧 Email: <a href="mailto:carmonaolleralberto@gmail.com">Alberto Carmona Oller</a></p>
 <p>- 💼 Linkedin: <a href="https://www.linkedin.com/in/alberto-carmona-oller-31113a281">Alberto Carmona Oller</a></p>
 <br>
-<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwZDY3aHo5cHoybzJ5ZTBhMHZyajE3a3Voa2tmZG04NzduZHJpdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIizmVSjLGnLoe3kxN/giphy.gif" width="50"> Let's Build Something Together</h2>
+<h2><img src="https://media.tenor.com/C3I8ni3VuwgAAAAi/garden-of-eden.gif" width="50"> Let's Build Something Together</h2>
 <br>
 <p>I'm always open to new project ideas. If you have a concept you'd like to bring to life or a team you think I'd be a good fit for, I'd love to hear from you.</p>
 
