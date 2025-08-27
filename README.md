@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Alberto Carmona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> <font size="5"><i>About me</i></font></h3>
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwZDY3aHo5cHoybzJ5ZTBhMHZyajE3a3Voa2tmZG04NzduZHJpdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHT4S1lOyAbaa6UvQZ/giphy.gif" width="70px"> <font size="5"><i>About me</i></font></h3>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDV2Ymt0ODQ4Ym83Y2lyeWNvczlvc25jczd4Z3FnN2xiamg2Ymx5NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MXDj6ajQ7F6zC1Hi5/giphy.gif" width="400">
 <br>
 <p>- 💻 I'm a dedicated student of cross-platform application development.</p>
