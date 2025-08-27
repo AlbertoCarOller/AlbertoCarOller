@@ -38,7 +38,7 @@
 <p>- 📧 Email: <a href="mailto:carmonaolleralberto@gmail.com">Alberto Carmona Oller</a></p>
 <p>- 💼 Linkedin: <a href="https://www.linkedin.com/in/alberto-carmona-oller-31113a281">Alberto Carmona Oller</a></p>
 <br>
-<h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTA2eDI4OHFlZ2E1YzF1NjJ6NTdtdjhyODh1bnE3Zm90NnR3YjBwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qr53K96QCRW3w9gOYI/giphy.gif" width="50">Let's Build Something Together</h2>
+<h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwZDY3aHo5cHoybzJ5ZTBhMHZyajE3a3Voa2tmZG04NzduZHJpdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIizmVSjLGnLoe3kxN/giphy.gif" width="50">Let's Build Something Together</h2>
 <br>
 <p>I'm always open to new project ideas. If you have a concept you'd like to bring to life or a team you think I'd be a good fit for, I'd love to hear from you.</p>
 
