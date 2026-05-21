@@ -1,47 +1,125 @@
-<h1 align="center">Hi , I'm Alberto Carmona <img src="https://media.tenor.com/C0s5HMQTAPgAAAAm/garden-of-eden.webp" width="60"></h1>
-<br>
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFwZDY3aHo5cHoybzJ5ZTBhMHZyajE3a3Voa2tmZG04NzduZHJpdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SHT4S1lOyAbaa6UvQZ/giphy.gif" width="55px"> <font size="5"><i>About me</i></font></h3>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDV2Ymt0ODQ4Ym83Y2lyeWNvczlvc25jczd4Z3FnN2xiamg2Ymx5NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1MXDj6ajQ7F6zC1Hi5/giphy.gif" width="400">
-<br>
-<p>- 💻 I'm a dedicated student of cross-platform application development.</p>
-<p>- 👯 What truly motivates me is the opportunity to be a key player in a team.</p>
-<p>- 🌱 I am always looking for new challenges that allow me to expand my knowledge and apply what I have learned.</p>
-<br>
-<h2>My Skills Include</h2>
-<h3>Languajes</h3>
-<span>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/XML-000?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010">
-</span>
-<h3>Databases</h3>
-<span>
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-</span>
-<h3>IDE</h3>
-<span>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-</span>
-<h3>Other Tools and Technologies</h3>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-</span>
-<br>
-<h2><img src="https://media.tenor.com/pvEy5JxYBn8AAAAi/follow-me-vault-boy.gif" width="50"> Drop Me a Line</h2>
-<br>
-<p>- 📧 Email: <a href="mailto:carmonaolleralberto@gmail.com">Alberto Carmona Oller</a></p>
-<p>- 💼 Linkedin: <a href="https://www.linkedin.com/in/alberto-carmona-oller-31113a281">Alberto Carmona Oller</a></p>
-<br>
-<h2><img src="https://media.tenor.com/C3I8ni3VuwgAAAAi/garden-of-eden.gif" width="50"> Let's Build Something Together</h2>
-<br>
-<p>I'm always open to new project ideas. If you have a concept you'd like to bring to life or a team you think I'd be a good fit for, I'd love to hear from you.</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5cc,100:7F52FF&height=220&section=header&text=Alberto%20Carmona&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Cross-Platform%20App%20Developer&descSize=18&descAlignY=58&descColor=aaaaaa"/>
+</div>
+
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00E5CC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Alberto+%F0%9F%91%8B;Cross-Platform+App+Developer+%F0%9F%93%B1;Java+%26+Kotlin+Enthusiast+%E2%9A%99%EF%B8%8F;Always+learning+new+things+%F0%9F%8C%B1;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG"/>
+  </a>
+</div>
+
+<br/>
 
 ---
 
-<p><i>⚡Thanks for stopping by! I look forward to hearing from you.</i></p>
+## 🧑‍💻 About Me
+
+```kotlin
+data class Developer(
+    val name: String       = "Alberto Carmona Oller",
+    val role: String       = "Cross-Platform App Developer",
+    val location: String   = "España 🇪🇸",
+    val learning: String   = "Always expanding my skill set",
+    val openToWork: Boolean = true
+)
+```
+
+<br/>
+
+- 💻 Estudiante dedicado al **desarrollo de aplicaciones multiplataforma**
+- 👯 Me motiva ser pieza clave dentro de un equipo de trabajo
+- 🌱 Siempre buscando nuevos retos que amplíen mis conocimientos
+- ⚡ Creo que el mejor código se construye con curiosidad y colaboración
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-F58025?style=for-the-badge&logo=xml&logoColor=white"/>
+</div>
+
+<br/>
+
+**Databases**
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</div>
+
+<br/>
+
+**IDEs & Editors**
+
+<div>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
+
+<br/>
+
+**Tools**
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlbertoCarmona&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5cc&icon_color=7F52FF&text_color=ffffff&rank_icon=github"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoCarmona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5cc&text_color=ffffff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AlbertoCarmona&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00e5cc&ring=7F52FF&fire=00e5cc&currStreakLabel=00e5cc&sideLabels=ffffff&dates=888888"/>
+</div>
+
+<br/>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+  <a href="mailto:carmonaolleralberto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alberto-carmona-oller-31113a281">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <i>⚡ Always open to new ideas, projects and teams. Let's build something great together!</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:00e5cc&height=120&section=footer"/>
+</div>
