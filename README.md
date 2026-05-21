@@ -38,8 +38,46 @@ data class Developer(
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./tech-stack.svg" alt="Tech Stack" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=400&color=7F52FF&center=true&vCenter=true&width=700&lines=Languages+%E2%80%A2+Frameworks+%E2%80%A2+Databases+%E2%80%A2+IDEs+%E2%80%A2+Tools" alt="Tech categories"/>
 </div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="140" valign="middle"><b>🔤 Languages</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,kotlin,dart,html,css&theme=dark" height="45"/>
+      <img src="https://img.shields.io/badge/XML-F58025?style=for-the-badge&logo=xml&logoColor=white" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🚀 Frameworks</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🗄️ Databases &amp; BaaS</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,mariadb,firebase,supabase&theme=dark" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🖥️ IDEs &amp; Editors</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode&theme=dark" height="45"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>🔧 Tools</b></td>
+    <td valign="middle">
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="45"/>
+      <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="45"/>
+      <img src="https://img.shields.io/badge/Antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
