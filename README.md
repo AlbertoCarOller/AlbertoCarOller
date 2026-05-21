@@ -37,49 +37,8 @@ data class Developer(
 
 ## 🛠️ Tech Stack
 
-<br/>
-
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="120"><b>🔤 Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,dart,html,css&theme=dark&perline=10" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/XML-F58025?style=flat-square&logo=xml&logoColor=white" height="45"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🚀 Frameworks</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=10" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases &amp; BaaS</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mariadb,firebase,supabase&theme=dark&perline=10" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🖥️ IDEs &amp; Editors</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode&theme=dark&perline=10" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔧 Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=10" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white" height="45"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Antigravity-3776AB?style=flat-square&logo=python&logoColor=white" height="45"/>
-    </td>
-  </tr>
-</table>
-
+  <img src="./tech-stack.svg" alt="Tech Stack" width="800"/>
 </div>
 
 <br/>
